@@ -1,7 +1,7 @@
 # TicTacToe
 
-  Este é um programa de fins educacionais, para prática de alguns comandos básicos de Python, através
-  do jogo TicTacToy ("Jogo da Velha"), aproveite o aprendizado e fique a vontade para usar o programa.
+This is an educational program, to practice some basic Python commands,
+through the game TicTacToy, enjoy the learning and feel free to use the program.
   
   Created By 
     Karnaught
